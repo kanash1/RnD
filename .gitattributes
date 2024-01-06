@@ -1,1 +1,2 @@
 DeepPavlov-rubert-base-cased-2023-12-18_07-06-50/** filter=lfs diff=lfs merge=lfs -text
+sentence-transformers-paraphrase-multilingual-mpnet-base-v2-2023-12-18_10-46-58/** filter=lfs diff=lfs merge=lfs -text
